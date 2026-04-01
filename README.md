@@ -11,3 +11,5 @@ Test khả năng giao tiếp với thẻ nhớ Micro SD bằng cách chạy chư
 Tiếp tục thử flash firmware vào thẻ nhớ: https://github.com/sipeed/kflash_gui/tree/master
 
 Link tải firmware factory: https://dl.sipeed.com/shareURL/MAIX/factory_firmware/esp32 (Maixduino Download Page)
+
+Kiểm tra firmware hiện tại của sản phẩm
