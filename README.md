@@ -6,7 +6,7 @@ Danh sách video hướng dẫn trên mạng: https://www.youtube.com/playlist?l
 
 Github của nhà sản xuất về Maixduino: https://github.com/sipeed/Maixduino
 
-Test khả năng giao tiếp với thẻ nhớ Micro SD bằng cách chạy chương trình ghi âm (kit tích hợp sẵn microphone) và lưu vào thẻ nhớ.
+Test khả năng giao tiếp với thẻ nhớ Micro SD bằng cách chạy chương trình ghi âm (kit tích hợp sẵn microphone) và lưu vào thẻ nhớ. (Chuẩn FAT32)
 
 Tiếp tục thử flash firmware vào thẻ nhớ: https://github.com/sipeed/kflash_gui/tree/master
 
