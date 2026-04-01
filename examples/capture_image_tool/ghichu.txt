@@ -1,0 +1,7 @@
+Lưu file này vào thẻ nhớ micro SD
+
+Power off board, then insert SD card to board
+Power on, it will automatically create a directory like cap_images_1, the next time will be cap_images_2 to avoid rewrite
+Capture images for one class, push boot button on board and release to capture one image, this will save images as cap_images_1/0/0.jpg, the name of image will automaitcally increase, like 0.jpg 1.jpg ...
+Long push boot botton on board to switch class, this will create a new directory like cap_images_1/1/, and later captured images will be saved to this directory like cap_images_1/1/0.jpg
+Power off board, pop out SD card, mount on your PC, now you get your images in your file brower
