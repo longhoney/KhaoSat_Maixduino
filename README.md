@@ -1,3 +1,5 @@
 Thông tin sản phẩm tại trang chủ nhà sản xuất: https://wiki.sipeed.com/hardware/en/maix/maixpy_develop_kit_board/maix_duino.html
+
 Github chứa các chương trình có sẵn: https://github.com/sipeed/MaixPy-v1_scripts/tree/master
+
 Danh sách video hướng dẫn trên mạng: https://www.youtube.com/playlist?list=PL-xeeY4SfuajYw7RM1neLzEWYq91-2rxp
