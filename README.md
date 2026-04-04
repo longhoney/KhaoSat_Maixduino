@@ -12,6 +12,6 @@ Tiếp tục thử flash firmware vào thẻ nhớ: https://github.com/sipeed/kf
 
 Link tải firmware factory: https://dl.sipeed.com/shareURL/MAIX/factory_firmware/esp32 (Maixduino Download Page)
 
-Kiểm tra firmware hiện tại của sản phẩm: Không có thông tin
+Kiểm tra firmware hiện tại của sản phẩm: Chạy file main.py hoặc kiểm tra trong phần mềm MaixPy IDE.
 
 Trang web hướng dẫn update firmware: https://wiki.sipeed.com/soft/maixpy/en/get_started/upgrade_maixpy_firmware.html 
