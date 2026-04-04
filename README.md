@@ -6,7 +6,11 @@ Danh sách video hướng dẫn trên mạng: https://www.youtube.com/playlist?l
 
 Github của nhà sản xuất về Maixduino: https://github.com/sipeed/Maixduino
 
-Test khả năng giao tiếp với thẻ nhớ Micro SD bằng cách chạy chương trình ghi âm (kit tích hợp sẵn microphone) và lưu vào thẻ nhớ. (Chuẩn FAT32)
+Test khả năng giao tiếp với thẻ nhớ Micro SD bằng cách chạy chương trình ghi âm (kit tích hợp sẵn microphone) và lưu vào thẻ nhớ.
+  - Định dạng FAT32: OK
+  - Định dạng NTFS: không hoạt động
+  - Định dạng FAT:
+  - Định dạng exFAT:
 
 Tiếp tục thử flash firmware vào thẻ nhớ: https://github.com/sipeed/kflash_gui/tree/master
 
