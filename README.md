@@ -15,3 +15,5 @@ Link tải firmware factory: https://dl.sipeed.com/shareURL/MAIX/factory_firmwar
 Kiểm tra firmware hiện tại của sản phẩm: Chạy file main.py hoặc kiểm tra trong phần mềm MaixPy IDE.
 
 Trang web hướng dẫn update firmware: https://wiki.sipeed.com/soft/maixpy/en/get_started/upgrade_maixpy_firmware.html 
+
+Thử format thẻ nhớ định dạng FAT xem kit có nhận thẻ nhớ không?
