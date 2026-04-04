@@ -2,6 +2,8 @@ Thông tin sản phẩm tại trang chủ nhà sản xuất: https://wiki.sipeed
 https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/maix_duino.html
 Kit giao tiếp TTL 3v3. Pinout của board Maixduino, không phải của board ESP32 Dev module. Pinout của ESP32 Dev module nằm trong example "config_maix_duino.py"
 
+Upload Speed cho ESP32 Dev Module trong ArduinoIDE là 115200.
+
 Github chứa các chương trình có sẵn: https://github.com/sipeed/MaixPy-v1_scripts/tree/master
 
 Danh sách video hướng dẫn trên mạng: https://www.youtube.com/playlist?list=PL-xeeY4SfuajYw7RM1neLzEWYq91-2rxp
@@ -21,4 +23,4 @@ Kiểm tra firmware hiện tại của sản phẩm: Chạy file main.py hoặc 
 
 Trang web hướng dẫn update firmware: https://wiki.sipeed.com/soft/maixpy/en/get_started/upgrade_maixpy_firmware.html 
 
-Thử format thẻ nhớ định dạng FAT xem kit có nhận thẻ nhớ không?
+
