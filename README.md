@@ -1,5 +1,6 @@
 Thông tin sản phẩm tại trang chủ nhà sản xuất: https://wiki.sipeed.com/hardware/en/maix/maixpy_develop_kit_board/maix_duino.html
 https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/maix_duino.html
+Kit giao tiếp TTL 3v3. Pinout của board Maixduino, không phải của board ESP32 Dev module
 
 Github chứa các chương trình có sẵn: https://github.com/sipeed/MaixPy-v1_scripts/tree/master
 
