@@ -1,6 +1,6 @@
 Thông tin sản phẩm tại trang chủ nhà sản xuất: https://wiki.sipeed.com/hardware/en/maix/maixpy_develop_kit_board/maix_duino.html
 https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/maix_duino.html
-Kit giao tiếp TTL 3v3. Pinout của board Maixduino, không phải của board ESP32 Dev module. Pinout của ESP32 Dev module nằm trong example "config_maix_duino.py"
+Kit giao tiếp TTL 3v3. ESP32 có 6 hàng chân Analog, các hàng chân còn lại của K210.
 
 Upload Speed cho ESP32 Dev Module trong ArduinoIDE là 115200.
 
