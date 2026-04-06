@@ -10,6 +10,8 @@ Danh sách video hướng dẫn trên mạng: https://www.youtube.com/playlist?l
 
 Github của nhà sản xuất về Maixduino: https://github.com/sipeed/Maixduino
 
+Nếu kết nối đầy đủ với màn hình, kit K210 đã có sẵn chương trình main.py để kiểm tra khả năng đọc của thẻ nhớ.
+
 Test khả năng giao tiếp với thẻ nhớ Micro SD bằng cách chạy chương trình ghi âm (kit tích hợp sẵn microphone) và lưu vào thẻ nhớ.
   - Định dạng FAT32: OK, LƯU được file main.py.
   - Định dạng NTFS: không hoạt động, không lưu được file main.py.
